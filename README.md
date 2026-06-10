@@ -42,25 +42,7 @@ Database design, backend architecture, not a demo. A real project I had to defen
 <h2>I code with</h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,php,html,css,js,ts,react,java,cs,docker,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,php,html,css,js,ts,react,nodejs,java,cs,docker,git,vscode&theme=dark" />
 </p>
-
 ---
-
-<h2>Stats</h2>
-
-<p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?HuWoozie=HuWoozie&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?HuWoozie=HuWoozie&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HuWoozie&theme=github-dark&hide_border=true&background=0D1117" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?HuWoozie=HuWoozie&color=58a6ff&style=flat&label=profile+views" />
-</p>
 
