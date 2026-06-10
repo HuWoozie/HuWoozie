@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/HuWoozie"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gergő-nebl-7a10b83a0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:neblgergo16@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -64,6 +64,3 @@ Database design, backend architecture, not a demo. A real project I had to defen
   <img src="https://komarev.com/ghpvc/?HuWoozie=HuWoozie&color=58a6ff&style=flat&label=profile+views" />
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:58a6ff,100=0:1a1b27&height=80&section=footer" width="100%" />
-</div>
